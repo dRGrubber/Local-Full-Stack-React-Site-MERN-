@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "front-end\\front-end.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "back-end\\back-end.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

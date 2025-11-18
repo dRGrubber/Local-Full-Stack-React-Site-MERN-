@@ -1,0 +1,1 @@
+C:\CWood\Full Stack React Site (MERN)\back-end\obj\Debug\back-end.esproj.CoreCompileInputs.cache
